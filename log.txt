@@ -3,8 +3,11 @@ we haave in line style e.g
 <h1 style="color: blue;"><h1>
 
 2. using the style block e.g
+2.1 using style block for tags: 
 <style>
 p{color:white;
 background:white}
+2.2 using style block for class
+.blue_text{color:black;}
 
 </style>
